@@ -173,6 +173,10 @@ section {
     box-shadow: 0 8px 16px rgba(0, 255, 171, 0.3);
 }
 
+.project-link{
+    text-decoration: none;
+    color: #e0e0e0;
+}
 .interests {
     background-color: #121111;
     opacity: 0.9;
